@@ -1,0 +1,3 @@
+[submodule "ConceptDrift-data"]
+	path = ConceptDrift-data
+	url = https://github.com/albertmeronyo/ConceptDrift-data
