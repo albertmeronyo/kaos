@@ -1,3 +1,6 @@
 [submodule "ConceptDrift-data"]
 	path = kos/ConceptDrift-data
 	url = https://github.com/albertmeronyo/ConceptDrift-data
+[submodule "kos/schema.org-owl"]
+	path = kos/schema.org-owl
+	url = https://github.com/albertmeronyo/schema.org-owl
