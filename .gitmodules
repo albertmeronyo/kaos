@@ -4,3 +4,6 @@
 [submodule "kos/schema.org-owl"]
 	path = kos/schema.org-owl
 	url = https://github.com/albertmeronyo/schema.org-owl
+[submodule "kos/StandaardenOverheid.nl"]
+	path = kos/StandaardenOverheid.nl
+	url = https://github.com/albertmeronyo/StandaardenOverheid.nl
